@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vaibhavi\\Desktop\\IX C Sharp Assignments\\A04_ArraySortUsingArrayParameter\\A04_ArraySortUsingArrayParameter\\A04_ArraySortUsingArrayParameter.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vaibhavi\\Desktop\\IX C Sharp Assignments\\A04_ArraySortUsingArrayParameter\\A04_ArraySortUsingArrayParameter\\A04_ArraySortUsingArrayParameter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vaibhavi\\Desktop\\IX C Sharp Assignments\\A04_ArraySortUsingArrayParameter\\A04_ArraySortUsingArrayParameter\\A04_ArraySortUsingArrayParameter.csproj",
+        "projectName": "A04_ArraySortUsingArrayParameter",
+        "projectPath": "C:\\Users\\vaibhavi\\Desktop\\IX C Sharp Assignments\\A04_ArraySortUsingArrayParameter\\A04_ArraySortUsingArrayParameter\\A04_ArraySortUsingArrayParameter.csproj",
+        "packagesPath": "C:\\Users\\vaibhavi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vaibhavi\\Desktop\\IX C Sharp Assignments\\A04_ArraySortUsingArrayParameter\\A04_ArraySortUsingArrayParameter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vaibhavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
